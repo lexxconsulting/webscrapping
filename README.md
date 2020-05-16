@@ -2,14 +2,16 @@
 
 
 
-# webscrapping
+# web scrapping
 
 Summary
+
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler.
 The web scrapping tool has numerous uses, so in this article we will present two applications of this tool, allowing the reader to understand its application and usefulness.
 For the first application, we will use the example applied by the New York Times and the second application will be of business use for collecting automated data to support business research.
 
 Introduction
+
 Many Americans have gotten used to President Trump's lies. Then we catalog almost all the lies he has publicly told since he took the oath of office and then we add to this list, taking it until November 11th, and provide links to the facts in each case.
 
 Objective
@@ -17,9 +19,11 @@ Objective
 The purpose of this research is to assess all of President Trump's lies in the evolution of time.
 
 Methodology
+
 For this analysis we will use the programming language R to collect data from the The New York Times article and build a dataset that allows us to perform statistical analysis with Power BI tool, where we is possible to create different dash boards, whatever you want, for different proposes. 
 
 Conclusion
+
 The purpose of this article is only to present some potential technology tools that can be applied to any business reality, therefore, the approach does not have a purpose of deep analysis on the topic addressed here, since each business has its particularities and different purposes .
 Therefore, through this approach, we have evidenced that it was possible to collect data from the web, organize it in a table and present the information in a summarized and visible form through dashboards, which allows a more understandable visualization of the data, thus enabling the generation of insights for decision making.
 
